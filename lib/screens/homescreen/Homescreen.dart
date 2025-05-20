@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:nectar/assets/appimages.dart';
 import 'package:nectar/constants/appcolors.dart';
-import 'package:nectar/models/eclusive-offer-model.dart';
+import 'package:nectar/models/shop-view-models.dart';
 
 class Homescreen extends StatefulWidget {
   const Homescreen({super.key});
