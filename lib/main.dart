@@ -16,12 +16,13 @@ void main()
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
+//comment
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-       home: BottomNavView(),
+       home: ShopView(),
+       //BottomNavView(),
     );
   }
 }
